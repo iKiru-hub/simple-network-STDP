@@ -1,5 +1,5 @@
 '''
-this file run a fortan file with a given name and than deletes the executable
+this file runs a fortan file with a specified name and than deletes the executable
 '''
 
 import argparse
